@@ -1,3 +1,4 @@
+// Time complexity = O(n)
 #include<stdio.h>
 #include<stdlib.h>
 
